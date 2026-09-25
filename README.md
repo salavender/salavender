@@ -1,10 +1,5 @@
-My whole career has been the same job in different clothes: find the manual process holding a
-system together, and replace it with something that scales. A securities firm, a hardware company's
-sales team, and my own work.
-
-What that means right now is agent tooling. I build compound engineering systems for coding
-agents — the workflows, review passes, and context that have to survive between sessions — and
-that is what everything else gets built with.
+I build compound engineering systems for coding agents — the workflows, review passes, and context that have
+to survive between sessions — and that is what everything else gets built with.
 
 ## Public work
 
