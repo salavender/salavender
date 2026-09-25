@@ -1,11 +1,7 @@
-I build compound engineering systems for coding agents — the workflows, review passes, and context that have
-to survive between sessions — and that is what everything else gets built with.
-
 ## Public work
 
 **[antigravity-compound-engineering-plugin](https://github.com/salavender/antigravity-compound-engineering-plugin)**
-— a non-official Antigravity IDE plugin that turns agent sessions into a persistent knowledge
-system: what got fixed, what was learned, and what the next piece of work starts from. MIT licensed.
+— a non-official Antigravity IDE system prompts that turns agent sessions into a persistent knowledge system
 
 Most of what I build is proprietary to the work it serves — multi-source market-data pipelines, agent
 context infrastructure, the plumbing behind a regulated financial product.
