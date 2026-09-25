@@ -8,10 +8,8 @@ context infrastructure, the plumbing behind a regulated financial product.
 
 ## The person
 
-I work on retail lending products on the business side of a securities firm in Vietnam: the case
-that justifies the product, its policy, the campaign, the UX, and getting the thing live with real
-customers. One product I took from first draft to launch reached about VND 1 trillion with thousands
-of customers within three weeks.
+I work on retail lending products on the business side of a securities firm in Vietnam. One product I took from first
+draft to launch reached about VND 1 trillion with thousands of customers within three weeks.
 
 From 2024 to early 2026 I served in the Vietnam People's Army, clearing unexploded ordnance on the northern border of Vietnam.
 
